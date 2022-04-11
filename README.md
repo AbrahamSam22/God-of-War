@@ -20,5 +20,4 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT license](https://choosealicense.com/licenses/mit/)
 
-Here is how the game works:
 God of War game of war is when you realize you can go anywhere. The opening setup is clear, the game goes backwards, presents you with a map of the world and says, 'You know what? You're a god, you have a boat: sort yourself out. ' The ability to go anywhere and do something in a semi-open world suddenly makes it as much about your journey through the story of Kratos as one of his goals.
